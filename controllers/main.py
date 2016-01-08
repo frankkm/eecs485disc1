@@ -9,5 +9,5 @@ def main_route():
 
 @main.route('/hello')
 def hello():
-    return "Hellow everyone!"
+    return "Hello World!"
 
